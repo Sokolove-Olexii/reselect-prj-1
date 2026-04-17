@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reselect-prj-1/static/css/main.0c4f6a9b.css",
+    "main.js": "/reselect-prj-1/static/js/main.6d2090ff.js",
+    "home-view.css": "/reselect-prj-1/static/css/home-view.d5fbfe6a.chunk.css",
+    "home-view.js": "/reselect-prj-1/static/js/home-view.f6f04974.chunk.js",
+    "authors-view.css": "/reselect-prj-1/static/css/authors-view.d5fbfe6a.chunk.css",
+    "authors-view.js": "/reselect-prj-1/static/js/authors-view.cc4ecbce.chunk.js",
+    "books-view.css": "/reselect-prj-1/static/css/books-view.d5fbfe6a.chunk.css",
+    "books-view.js": "/reselect-prj-1/static/js/books-view.e5ddba06.chunk.js",
+    "book-view.css": "/reselect-prj-1/static/css/book-view.d5fbfe6a.chunk.css",
+    "book-view.js": "/reselect-prj-1/static/js/book-view.b5c62eb9.chunk.js",
+    "404-view.js": "/reselect-prj-1/static/js/404-view.2efafbde.chunk.js",
+    "authors-subview.js": "/reselect-prj-1/static/js/authors-subview.ec93ed1a.chunk.js",
+    "index.html": "/reselect-prj-1/index.html",
+    "main.0c4f6a9b.css.map": "/reselect-prj-1/static/css/main.0c4f6a9b.css.map",
+    "main.6d2090ff.js.map": "/reselect-prj-1/static/js/main.6d2090ff.js.map",
+    "home-view.d5fbfe6a.chunk.css.map": "/reselect-prj-1/static/css/home-view.d5fbfe6a.chunk.css.map",
+    "home-view.f6f04974.chunk.js.map": "/reselect-prj-1/static/js/home-view.f6f04974.chunk.js.map",
+    "authors-view.d5fbfe6a.chunk.css.map": "/reselect-prj-1/static/css/authors-view.d5fbfe6a.chunk.css.map",
+    "authors-view.cc4ecbce.chunk.js.map": "/reselect-prj-1/static/js/authors-view.cc4ecbce.chunk.js.map",
+    "books-view.d5fbfe6a.chunk.css.map": "/reselect-prj-1/static/css/books-view.d5fbfe6a.chunk.css.map",
+    "books-view.e5ddba06.chunk.js.map": "/reselect-prj-1/static/js/books-view.e5ddba06.chunk.js.map",
+    "book-view.d5fbfe6a.chunk.css.map": "/reselect-prj-1/static/css/book-view.d5fbfe6a.chunk.css.map",
+    "book-view.b5c62eb9.chunk.js.map": "/reselect-prj-1/static/js/book-view.b5c62eb9.chunk.js.map",
+    "404-view.2efafbde.chunk.js.map": "/reselect-prj-1/static/js/404-view.2efafbde.chunk.js.map",
+    "authors-subview.ec93ed1a.chunk.js.map": "/reselect-prj-1/static/js/authors-subview.ec93ed1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4f6a9b.css",
+    "static/js/main.6d2090ff.js"
+  ]
+}
