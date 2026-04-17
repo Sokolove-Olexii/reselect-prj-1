@@ -1,7 +1,3 @@
 # react
 
-- Пишемо асинхронний потік дій вручну
-- Рефакторим імпорти з Re-export
-- Аліаси та абсолютні імпорти
-- createAsyncThunk
-- createSlice
+git pages don't work as this webapp has it's own backend
